@@ -1,23 +1,28 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey there, I'm Hadi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p>Welcome to my GitHub! <br/> I'm <b>Hadi Barjaoui</b>, a passionate <b>Web Developer & Programmer</b> from Tunisia 🇹🇳.</p>
 
-<p><em>A passionate Web Developer & Designer 👨‍💻</em></p>
+<h3>🛠️ Languages & Technologies I Use</h3>
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+<h3>🚀 About Me</h3>
+<ul>
+  <li>🔭 I’m currently working on personal and freelance web development projects.</li>
+  <li>🌱 I’m constantly learning and improving my skills.</li>
+  <li>💬 Ask me about Web Design, Frontend Development, or C++ logic problems.</li>
+  <li>📫 Reach me at: <b>hadibarjaoui@gmail.com</b></li>
+</ul>
 
----
-
-### 🧠 About Me
-
-```javascript
-const hadi = {
-  name: "Hadi",
-  pronouns: "He/Him",
-  role: "Web Developer & Designer",
-  languages: ["C++", "Python", "HTML", "CSS", "JavaScript"],
-  tools: ["VS Code", "Git", "Figma", "Chrome DevTools"],
-  hobbies: ["Designing", "Coding", "Learning new tech", "Gaming"],
-  currentFocus: "Building beautiful and responsive websites"
-};
+<h3>📍 Where to find me</h3>
+<p>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
