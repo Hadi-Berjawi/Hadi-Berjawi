@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my GitHub! <br/> I'm <b>Hadi Barjaoui</b>, a passionate <b>Web Developer & Programmer</b> from Tunisia 🇹🇳.</p>
+<p>Welcome to my GitHub! <br/> I'm <b>Hadi berjawi</b>, a passionate <b>Web Developer & Programmer</b> from Tunisia 🇹🇳.</p>
 
 <h3>🛠️ Languages & Technologies I Use</h3>
 <p>
@@ -16,7 +16,7 @@
   <li>🔭 I’m currently working on personal and freelance web development projects.</li>
   <li>🌱 I’m constantly learning and improving my skills.</li>
   <li>💬 Ask me about Web Design, Frontend Development, or C++ logic problems.</li>
-  <li>📫 Reach me at: <b>hadibarjaoui@gmail.com</b></li>
+  <li>📫 Reach me at: <b>hadiberjawi@gmail.com</b></li>
 </ul>
 
 <h3>📍 Where to find me</h3>
